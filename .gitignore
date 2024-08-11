@@ -1,0 +1,5 @@
+# Python related folders
+__pycache__
+.sesskey
+courses
+env
